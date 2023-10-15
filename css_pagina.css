@@ -1,0 +1,17 @@
+body{
+     background-image: url(./v1.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+     font-size: 90px;
+     color: white;
+}
+
+
+button {
+       width: 400px;
+       height: 50px;
+       background-color: black;
+       color: white;
+       border-radius: 10px;
+}
